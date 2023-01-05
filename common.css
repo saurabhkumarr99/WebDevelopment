@@ -1,0 +1,51 @@
+body {
+    background-color: #c5c6d733;
+    text-align: center;
+}
+
+section {
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(36, 103, 219);
+}
+
+.container {
+    border: none;
+    border-radius: 9px;
+    background-color: #fff;
+    margin: 2px auto;
+    padding: 5px;
+    width: 30%;
+}
+
+input {
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 80%;
+    margin: 10px;
+}
+
+button {
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    color: #fff;
+    line-height: 48px;
+    padding: 0 16px;
+}
+
+#loginButton {
+    background-color: #1877f2;
+    width: 88%;
+}
+
+#createAccountButton {
+    margin-bottom: 15px;
+    background-color: #42b72a;
+
+}
