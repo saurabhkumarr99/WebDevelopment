@@ -1,11 +1,11 @@
 body {
-    background-image: url(images/Irctc_background.jpg);
+    background-image: url(/images/Irctc_background.jpg);
     background-size: cover;
 }
 
 .container {
     border: none;
-    width: 40%;
+    width: 42%;
     position: relative;
     top: 40px;
     left: 8%;
@@ -34,6 +34,7 @@ body {
 .box2{
     background-color: white;
     padding: 5px;
+    padding-left: 10px;
 }
 
 #box2_1{
