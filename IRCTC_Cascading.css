@@ -1,0 +1,84 @@
+body {
+    background-image: url(/images/Irctc_background.jpg);
+    background-size: cover;
+}
+
+.container {
+    border: none;
+    width: 40%;
+    position: relative;
+    top: 40px;
+    left: 8%;
+}
+
+.box1 {
+    display: flex;
+}
+
+.box1_1 {
+    background-color:#213d77;
+    display: flex;
+    width: 49%;
+    padding-left: 10px;
+}
+
+.BtnType1{
+    border: none;
+    background-color: #213d77;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.box2{
+    background-color: white;
+    padding: 5px;
+}
+
+#box2_1{
+    display: flex;
+    padding-top: 5px;
+}
+
+#box2_2{
+    margin-top: 20px;
+}
+
+input{
+    font-size: 20px;
+    margin: 15px;
+}
+
+select{
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.box3{
+    background-color: white;
+    margin-top: 5px;
+    padding: 5px;
+    padding-bottom: 20px;
+}
+
+.BtnType2{
+    background-color:#fb792b;
+    border: none;
+    border-radius: 8px;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 20px;
+    height: 35px;
+    width: 80px;
+}
+
+.BtnType3{
+    background-color:#01bb0a;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 5px;
+}
